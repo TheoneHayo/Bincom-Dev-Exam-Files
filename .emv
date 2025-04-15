@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_NAME=bincomtest
+DB_USER=postgres
+DB_PASSWORD=Hayo24434078
+DB_PORT=5432
